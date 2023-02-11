@@ -1,0 +1,26 @@
+.bi-search::before {
+    font-size: 20px;
+}
+.bi-cart3::before {
+    font-size: 20px;
+
+}
+.bi-person-circle::before {
+    font-size: 20px;
+
+}
+.ms-navbar-wrapper .navbar-nav .nav-item .dropdown-menu-end{
+    background-color: aquamarine;
+    width: 850px;
+
+
+}
+
+.d-flex ul li{
+    list-style-type: none;
+    margin: 2px;
+    padding: 2px;
+}
+.ms-item{
+    width: 16.67%;
+}
